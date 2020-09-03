@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="versionHint">Enter Android Version</string>
+    <string name="nameHint">Enter Android Code Name</string>
+    <string name="addBtnText">Add new</string>
+    <string name="col1Header">Name</string>
+    <string name="col2Header">Version</string>
+</resources>
